@@ -9,7 +9,7 @@
 
 **Final Report**
 
-https://github.com/remclellan/ETL-Project/tree/master/Final_Report/
+https://github.com/remclellan/ETL-Project/blob/master/Final%20Report/Can%20Grocery%20Delivery%20Services%20Reach%20Food%20Deserts.docx
 
 **Analysis**
 
